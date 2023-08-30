@@ -1,3 +1,5 @@
+
+
 let uzunKenar = prompt("lutfen uzun kenari giriniz");
 let kisaKenar = prompt("lutfen kisa kenari giriniz");
 
