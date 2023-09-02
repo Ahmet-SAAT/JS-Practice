@@ -47,9 +47,7 @@ console.log(newArr)
 
   }
 
-  console.log(filtrele(
-
-  )) */
+  console.log(filtrele(5)) */
 
 
 
@@ -64,7 +62,7 @@ console.log(newArr)
 
 /* 
 //!6- Dizideki sayıların ortalamasını bulun ortalamadan yüksek olanları
-// başka bir diziye atarak yazdırın.
+//başka bir diziye atarak yazdırın.
 
 const notlar1 = [38, 62, 74, 28, 86, 67, 92, 100, 56, 94, 72];
 
@@ -94,9 +92,9 @@ const notlar = [
     { ad: "Mine San", not: 86 },
     { ad: "Mert Er", not: 67 },
     { ad: "Bora Fer", not: 92 },
-    { ad: "Ayşe Yılmaz", not: 100,},
-    { ad: "İlke Cansız", not: 56,},
-    { ad: "Sude Canlı", not: 94 },
+    { ad: "Ayşe Yilmaz", not: 100,},
+    { ad: "İlke Cansiz", not: 56,},
+    { ad: "Sude Canli", not: 94 },
     { ad: "Bade Sert", not: 72,},
     ]; 
 
